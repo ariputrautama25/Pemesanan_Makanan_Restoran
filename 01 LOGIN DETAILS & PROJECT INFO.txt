@@ -1,0 +1,16 @@
+**Admin Login Details** 
+
+http://localhost/rumahmakankita/admin/
+
+Username: admin
+Password: admin
+
+**Customer Login Details**
+
+http://localhost/rumahmakankita/
+
+Username: astaguna
+Password: astaguna123
+
+
+kalau gak ngerti WA sama yang punya (085210704090 / arieputrautama1998@gmail.com)
